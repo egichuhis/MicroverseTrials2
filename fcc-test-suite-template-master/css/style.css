@@ -1,6 +1,15 @@
-#image {
+/* #image {
   max-width: auto;
   height: auto;
+} */
+
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
 }
 
 #image-div {
